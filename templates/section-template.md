@@ -1,0 +1,6 @@
+---
+section:
+type:
+tags:
+---
+# {{title}}
