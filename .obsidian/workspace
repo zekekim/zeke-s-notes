@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2c9dc2d4ae9be0",
+        "id": "3c92130b3587dcc8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/Naive Set Theory.md",
+            "file": "contexts/Structuring Organizations.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/Naive Set Theory.md",
+                "file": "contexts/Structuring Organizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/Naive Set Theory.md",
+                "file": "contexts/Structuring Organizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/Naive Set Theory.md"
+                "file": "contexts/Structuring Organizations.md"
               }
             }
           }
@@ -129,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c2c9dc2d4ae9be0",
+  "active": "3c92130b3587dcc8",
   "lastOpenFiles": [
-    "references/algebra chapter 0.md",
-    "references/Naive Set Theory.md",
     "contexts/saddleback cs1c dashboard.md",
+    "contexts/Structuring Organizations.md",
+    "contexts/saddleback bus1h dashboard.md",
+    "contexts/Management.md",
+    "Untitled.md",
+    "references/Naive Set Theory.md",
+    "references/algebra chapter 0.md",
     "templates/section-template.md",
     "templates/reference-template.md",
-    "templates/lecture-template.md",
-    "templates/dashboard-template.md",
-    "slip-box/202209270039.md",
-    "contexts/cs1c/2022-09-06.md",
-    "daily/2022-09-26.md"
+    "templates/lecture-template.md"
   ]
 }
