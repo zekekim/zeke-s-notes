@@ -53,3 +53,8 @@ String joinWords(String[] words) {
 	return sentence.toString();
 }
 ```
+
+The `StringBuilder` is just a better way to concatenate strings - it is the dynamically sized string.
+
+## Interview Questions
+

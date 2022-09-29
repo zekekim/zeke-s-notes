@@ -1,5 +1,6 @@
 {
   "theme": "system",
   "cssTheme": "Minimal",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "translucency": false
 }
