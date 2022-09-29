@@ -3,4 +3,5 @@
 ## resources:
 
 ## notes:
-[[Naive Set Theory]]
+[[Naive set theory]]
+[[Functions between sets]]

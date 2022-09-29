@@ -3,4 +3,4 @@ context:
 date: {{date}}
 tags: 
 ---
-# {{date}}
+# {{title}}

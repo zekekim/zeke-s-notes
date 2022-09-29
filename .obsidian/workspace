@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contexts/Structuring Organizations.md",
+            "file": "references/Arrays and Strings.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226
   },
   "right": {
     "id": "d84c08b7b99b7909",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contexts/Structuring Organizations.md",
+                "file": "references/Arrays and Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contexts/Structuring Organizations.md",
+                "file": "references/Arrays and Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contexts/Structuring Organizations.md"
+                "file": "references/Arrays and Strings.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "3c92130b3587dcc8",
   "lastOpenFiles": [
-    "contexts/saddleback cs1c dashboard.md",
-    "contexts/Structuring Organizations.md",
-    "contexts/saddleback bus1h dashboard.md",
-    "contexts/Management.md",
-    "Untitled.md",
-    "references/Naive Set Theory.md",
+    "references/Functions between sets.md",
+    "references/Arrays and Strings.md",
+    "references/cracking the coding interview.md",
+    "references/Naive set theory.md",
     "references/algebra chapter 0.md",
-    "templates/section-template.md",
-    "templates/reference-template.md",
-    "templates/lecture-template.md"
+    "contexts/Structuring Organizations.md",
+    "contexts/saddleback cs1c dashboard.md",
+    "templates/lecture-template.md",
+    "templates/dashboard-template.md",
+    "templates/reference-template.md"
   ]
 }

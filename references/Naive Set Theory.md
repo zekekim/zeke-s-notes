@@ -4,7 +4,7 @@ section: chapter 1.1
 date: 2022-09-27
 tags:
 ---
-# Naive Set Theory
+# Naive set theory
 
 ## 1.1 Sets
 
@@ -111,4 +111,59 @@ When making a copy of $S$ and $T$ to form $S'$ and $T'$ you can satisfy the cond
 
 ## 1.5 Equivalence Relations, Partitions, Quotients
 
+Equivalence relation in this books is denoted by $\sim$, however it also goes by $\equiv$ and other symbols. Equivalence can be thought of as a diagonal.
 
+### Properties of Equivalence
+
+An **equivalence relation** on a set S is any relation $\sim$ satisfying these three properties.
+- **reflexivity**: $(\forall a \in S)\:a\sim a$
+- **symmetry**: $(\forall a \in S)(\forall b \in S)\: a\sim b \rightarrow b\sim a$
+- **transitivity**: $(\forall a \in S)(\forall b \in S)(\forall c \in S),\: (a \sim b \: and \: b \sim c) \rightarrow a \sim c$
+
+### Partitions
+**Partitions** are a set containing a set of disjoint nonempty sets of S.
+> In this context disjoint means sharing no element - non-intersecting.
+
+$$\mathcal{P} = \{\{1,4,7\},\{2,5,8\},\{3,6\},\{9\}\}$$
+
+is a partition of the set
+
+$$\{1,2,3,4,5,6,7,8,9\}$$
+
+### Equivalence Classes
+**Equivalence classes** are, in simple terms, sets containing equivalent objects or a bin full of equivalent objects.
+
+The **equivalence classes**, therefore, of $A$ w.r.t. $\sim$ is the subset of S defined by
+
+$$[a]_{\sim} := \{b \in S \:| \:b \sim a\}$$
+
+The set of all equivalences is the partition $\mathcal{P}_{\sim}$ of $S$. This is defined as the following relationship, where the *quotient* of the set $S$ w.r.t. the equivalence relation ~ is the set 
+
+$$S/\sim := \mathcal{P}_{\sim}$$
+
+of equivalence classes of elements of $S$ w.r.t. $\sim$.
+
+### Example
+
+Taking the example equivalence relation:
+
+$$A \equiv B\:(mod \: 3)$$
+
+This satisfies all properties of equivalence.
+Therefore, the equivalence classes are the set 
+
+$$\mathcal{P}_{\sim} = \{[0]_{\sim},[1]_{\sim}\}$$
+
+Since each equivalence class can be expressed as
+
+$$[0]_{\sim} := \{0, 3, 6, 9, ...\}$$
+$$[1]_{\sim} := \{1, 3\pm 1, 6 \pm 1\}$$
+
+## Exercises
+
+- [ ] Locate a discussion of Russell's paradox and understand it.
+- [ ] Prove that if $\sim$ is a relation on a set $S$, then the corresponding family $\mathcal{P}_{\sim}$ is indeed a partition of $S$: that is, its elements are nonempty, disjoint, and their union is $S$.
+- [ ] Given a partition $\mathcal{P}$ on a set $S$, show how to define a relation $\sim$ on $S$ such that $\mathcal{P}$ is the corresponding partition.
+- [ ] How many different equivalence relations may be defined on the set $\{1,2,3\}$
+- [ ] Give an example of a relation that is reflexive and symmetric but not transitive. What happens if you attempt to use this relation to define a partition on the set?
+- [ ] Define a relation $\sim$ on the set $\mathbb{R}$ of real numbers by setting $a\sim b \iff b - a \in \mathbb{Z}$
