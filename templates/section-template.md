@@ -1,6 +1,6 @@
 ---
-section:
-type:
-tags:
+section: 
+type: 
+tags: 
 ---
 # {{title}}

@@ -1,5 +1,6 @@
 ---
-context:
+context: 
+section: 
 date: {{date}}
 tags: 
 ---

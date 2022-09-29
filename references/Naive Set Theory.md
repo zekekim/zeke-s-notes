@@ -73,7 +73,7 @@ For all sets $S$, $\emptyset \subseteq S$ and $S \subseteq S$. If both sets are 
 
 ### Number of Elements
 
-$|S|$ means the **number of elements** of $S$ and it is equal to $\infinity$ if not finite.
+$|S|$ means the **number of elements** of $S$ and it is equal to $\infty$ if not finite.
 
 ### Power Sets
 

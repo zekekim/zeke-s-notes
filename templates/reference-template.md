@@ -1,7 +1,7 @@
 ---
-reference:
-section:
+reference: 
+section: 
 date: {{date}}
-tags:
+tags: 
 ---
 # {{title}}

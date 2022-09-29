@@ -4,6 +4,7 @@
 
 ## lecture notes:
 [[Management]]
+[[Structuring Organizations]]
 
 ## participation points:
 | dates | points |

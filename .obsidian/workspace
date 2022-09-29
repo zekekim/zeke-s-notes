@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/Naive set theory.md",
+            "file": "references/gupats notes linear algebra.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/Naive set theory.md",
+                "file": "references/gupats notes linear algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/Naive set theory.md",
+                "file": "references/gupats notes linear algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +118,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/Naive set theory.md"
+                "file": "references/gupats notes linear algebra.md"
               }
             }
+          },
+          {
+            "id": "82b29e5825341141",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -131,15 +140,15 @@
   },
   "active": "3c92130b3587dcc8",
   "lastOpenFiles": [
-    "references/Functions between sets.md",
-    "references/Arrays and Strings.md",
-    "references/algebra chapter 0.md",
+    "contexts/ivc math 26.md",
+    "contexts/saddleback bus1h.md",
+    "references/gupats notes linear algebra.md",
     "contexts/Management.md",
-    "contexts/saddleback bus1h dashboard.md",
-    "contexts/saddleback cs1c dashboard.md",
-    "contexts/Structuring Organizations.md",
-    "references/Naive set theory.md",
+    "references/Functions between sets.md",
+    "references/algebra chapter 0.md",
+    "references/System of Linear Equations.md",
+    "references/Arrays and Strings.md",
     "references/cracking the coding interview.md",
-    "templates/lecture-template.md"
+    "contexts/Structuring Organizations.md"
   ]
 }
