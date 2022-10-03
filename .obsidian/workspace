@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/System of Linear Equations.md",
-            "mode": "preview",
+            "file": "references/Functions between sets.md",
+            "mode": "source",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9fc298e0edc3bb0d",
+    "id": "4c3dc792226e912e",
     "type": "split",
     "children": [
       {
-        "id": "4f3ea231a35c9314",
+        "id": "a239a100be617dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa1823e732593b32",
+            "id": "832cee79d11c025b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "1ea89b2bcdb6ba70",
+            "id": "0b5d614204d909d0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "21273cd67ddb533c",
+            "id": "64392aafeef0a88e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,23 +62,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226
+    "width": 300
   },
   "right": {
-    "id": "d84c08b7b99b7909",
+    "id": "046d96b81e846c46",
     "type": "split",
     "children": [
       {
-        "id": "cd0a383f8ef54d6f",
+        "id": "4f7f0e307f6ed0c0",
         "type": "tabs",
         "children": [
           {
-            "id": "93381d337416922c",
+            "id": "953959cf121ff85e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/System of Linear Equations.md",
+                "file": "references/Functions between sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +90,19 @@
             }
           },
           {
-            "id": "f03e74810a529f7a",
+            "id": "fb074deee6833318",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/System of Linear Equations.md",
+                "file": "references/Functions between sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "884098e8384ff255",
+            "id": "08f4e4bde4985377",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,25 +113,16 @@
             }
           },
           {
-            "id": "48b6dbea0eb0a6ed",
+            "id": "ba9ffeeded019a4a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/System of Linear Equations.md"
+                "file": "references/Functions between sets.md"
               }
             }
-          },
-          {
-            "id": "82b29e5825341141",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,13 +131,13 @@
   },
   "active": "3c92130b3587dcc8",
   "lastOpenFiles": [
+    "references/System of Linear Equations.md",
     "references/Naive set theory.md",
+    "references/Arrays and Strings.md",
+    "references/cracking the coding interview.md",
     "references/gupats notes linear algebra.md",
     "references/Functions between sets.md",
-    "references/Arrays and Strings.md",
     "references/algebra chapter 0.md",
-    "references/System of Linear Equations.md",
-    "references/cracking the coding interview.md",
     "contexts/saddleback bus1h.md",
     "contexts/Management.md",
     "contexts/saddleback cs1c.md"
