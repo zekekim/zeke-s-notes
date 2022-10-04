@@ -52,4 +52,4 @@ $$(\forall s \in S): f|_{s}, f:S \rightarrow B$$
 Helper comparison:
 $$f(A) = im(f), f(S) = im(f|_{s})$$
 
-
+##
