@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c92130b3587dcc8",
+        "id": "326ce66fa7c07764",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "references/Functions between sets.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/Functions between sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/Functions between sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "references/Functions between sets.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c92130b3587dcc8",
+  "active": "326ce66fa7c07764",
   "lastOpenFiles": [
-    "references/cracking the coding interview.md",
-    "references/Functions between sets.md",
-    "references/System of Linear Equations.md",
+    "Untitled 1.md",
     "references/Naive set theory.md",
     "references/gupats notes linear algebra.md",
+    "references/Functions between sets.md",
+    "references/System of Linear Equations.md",
+    "contexts/ivc math 26.md",
+    "contexts/Inheritance 1.md",
+    "references/algebra chapter 0.md",
     "references/Arrays and Strings.md",
-    "contexts/saddleback bus1h.md",
-    "contexts/saddleback cs1c.md",
-    "contexts/Structuring Organizations.md",
-    "contexts/Management.md"
+    "references/cracking the coding interview.md"
   ]
 }
