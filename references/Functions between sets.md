@@ -52,4 +52,17 @@ $$(\forall s \in S): f|_{s}, f:S \rightarrow B$$
 Helper comparison:
 $$f(A) = im(f), f(S) = im(f|_{s})$$
 
-##
+## Examples, Multisets, and Indexed Sets
+
+**Multisets** can be explained in a function. $m(a)$ represents how many occurences of $a \in A$.
+
+ex.
+$$\{a,a,a,b,b,b,b,b,b,c,c\}=m:\{a,b,c\} \rightarrow \mathbb{N}^{+}$$
+$$m(a)=3, m(b)=5, m(c)=2$$
+
+**Indices** can also be explained as a function. $i \in I$ represents the index of a value $a \in A$.
+
+$$\{a_{1},a_{2},...,a_{n}\}= a:{1,2,...,n}->\mathbb{Z}$$
+$$I\rightarrow A$$
+
+
