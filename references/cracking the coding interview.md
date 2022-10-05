@@ -4,3 +4,4 @@
 
 ## notes:
 [[Arrays and Strings]]
+[[Stacks and Queues]]

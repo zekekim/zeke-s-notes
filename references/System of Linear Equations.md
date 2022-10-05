@@ -1,5 +1,5 @@
 ---
-context: guptas notes: linear algebra
+context: guptas notes linear algebra
 date: 2022-09-28
 section: chapter 1
 tags: 

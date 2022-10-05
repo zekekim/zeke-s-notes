@@ -161,7 +161,7 @@ $$[1]_{\sim} := \{1, 3\pm 1, 6 \pm 1\}$$
 
 ## Exercises
 
-- [ ] Locate a discussion of Russell's paradox and understand it.
+- [x] Locate a discussion of Russell's paradox and understand it.
 - [ ] Prove that if $\sim$ is a relation on a set $S$, then the corresponding family $\mathcal{P}_{\sim}$ is indeed a partition of $S$: that is, its elements are nonempty, disjoint, and their union is $S$.
 - [ ] Given a partition $\mathcal{P}$ on a set $S$, show how to define a relation $\sim$ on $S$ such that $\mathcal{P}$ is the corresponding partition.
 - [ ] How many different equivalence relations may be defined on the set $\{1,2,3\}$

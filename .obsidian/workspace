@@ -4,38 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "326ce66fa7c07764",
+        "id": "6e962c298891a50d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contexts/ivc math 26.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5f4b6203fe3e2f13",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "contexts/saddleback cs1c.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "091a6b2e6422db05",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "references/System of Linear Equations.md",
+            "file": "references/Vectors.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -104,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/System of Linear Equations.md",
+                "file": "references/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/System of Linear Equations.md",
+                "file": "references/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/System of Linear Equations.md"
+                "file": "references/Vectors.md"
               }
             }
           }
@@ -155,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "091a6b2e6422db05",
+  "active": "6e962c298891a50d",
   "lastOpenFiles": [
-    "references/gupats notes linear algebra.md",
-    "contexts/Management.md",
-    "contexts/ivc math 26.md",
-    "contexts/math 26 2022-09-29.md",
-    "contexts/math 26 2022-10-04.md",
-    "contexts/Structuring Organizations.md",
-    "references/algebra chapter 0.md",
+    "references/Functions between sets.md",
+    "references/cracking the coding interview.md",
     "contexts/saddleback cs1c.md",
-    "contexts/saddleback bus1h.md",
-    "contexts/Inheritance 1.md"
+    "contexts/Management.md",
+    "references/Vectors.md",
+    "references/guptas notes linear algebra.md",
+    "references/Arrays and Strings.md",
+    "references/algebra chapter 0.md",
+    "references/Naive set theory.md",
+    "references/Stacks and Queues.md"
   ]
 }
