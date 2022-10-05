@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "references/Vectors.md",
+            "file": "contexts/saddleback bus1h.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/Vectors.md",
+                "file": "contexts/saddleback bus1h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/Vectors.md",
+                "file": "contexts/saddleback bus1h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/Vectors.md"
+                "file": "contexts/saddleback bus1h.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "6e962c298891a50d",
   "lastOpenFiles": [
-    "references/Functions between sets.md",
-    "references/cracking the coding interview.md",
     "contexts/saddleback cs1c.md",
+    "contexts/saddleback bus1h.md",
+    "contexts/math 26 2022-10-04.md",
+    "contexts/math 26 2022-09-29.md",
+    "contexts/ivc math 26.md",
     "contexts/Management.md",
+    "contexts/Structuring Organizations.md",
     "references/Vectors.md",
-    "references/guptas notes linear algebra.md",
-    "references/Arrays and Strings.md",
-    "references/algebra chapter 0.md",
-    "references/Naive set theory.md",
-    "references/Stacks and Queues.md"
+    "references/Functions between sets.md",
+    "references/cracking the coding interview.md"
   ]
 }
