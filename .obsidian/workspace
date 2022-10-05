@@ -7,8 +7,39 @@
         "id": "326ce66fa7c07764",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "contexts/ivc math 26.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5f4b6203fe3e2f13",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "contexts/saddleback cs1c.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "091a6b2e6422db05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "references/System of Linear Equations.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "references/System of Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "references/System of Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "references/System of Linear Equations.md"
+              }
             }
           }
         ]
@@ -120,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "326ce66fa7c07764",
+  "active": "091a6b2e6422db05",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "references/Naive set theory.md",
     "references/gupats notes linear algebra.md",
-    "references/Functions between sets.md",
-    "references/System of Linear Equations.md",
+    "contexts/Management.md",
     "contexts/ivc math 26.md",
-    "contexts/Inheritance 1.md",
+    "contexts/math 26 2022-09-29.md",
+    "contexts/math 26 2022-10-04.md",
+    "contexts/Structuring Organizations.md",
     "references/algebra chapter 0.md",
-    "references/Arrays and Strings.md",
-    "references/cracking the coding interview.md"
+    "contexts/saddleback cs1c.md",
+    "contexts/saddleback bus1h.md",
+    "contexts/Inheritance 1.md"
   ]
 }

@@ -4,4 +4,4 @@ section:
 date: {{date}}
 tags: 
 ---
-# {{title}}
+# {{date}}
