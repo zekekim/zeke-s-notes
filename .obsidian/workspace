@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6e962c298891a50d",
+        "id": "23f3a96d82efc9a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contexts/saddleback bus1h.md",
-            "mode": "source",
+            "file": "contexts/math 26 2022-10-04.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -20,126 +20,111 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4c3dc792226e912e",
-    "type": "split",
+    "id": "57a41646080b68cd",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "a239a100be617dbb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "832cee79d11c025b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b5d614204d909d0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "64392aafeef0a88e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "e0b01ef8ecde23fd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "89ccc742de2a127d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "8b35ccb882cf577a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "354f7dcfe7ab4908",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "046d96b81e846c46",
-    "type": "split",
+    "id": "012c0ccceb7cd148",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "4f7f0e307f6ed0c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "953959cf121ff85e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "contexts/saddleback bus1h.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "fb074deee6833318",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "contexts/saddleback bus1h.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "08f4e4bde4985377",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ba9ffeeded019a4a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "contexts/saddleback bus1h.md"
-              }
-            }
+        "id": "cfae7f0ee755ace9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "contexts/math 26 2022-10-04.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "6cd3832b90157534",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "contexts/math 26 2022-10-04.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1262ff6f72fb8747",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "contexts/math 26 2022-10-04.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "6e962c298891a50d",
+  "active": "23f3a96d82efc9a4",
   "lastOpenFiles": [
-    "contexts/saddleback cs1c.md",
-    "contexts/saddleback bus1h.md",
-    "contexts/math 26 2022-10-04.md",
     "contexts/math 26 2022-09-29.md",
-    "contexts/ivc math 26.md",
-    "contexts/Management.md",
-    "contexts/Structuring Organizations.md",
+    "references/algebra chapter 0.md",
+    "references/Three Big Questions.md",
+    "contexts/math 26 2022-10-04.md",
+    "references/System of Linear Equations.md",
+    "references/guptas notes linear algebra.md",
+    "references/Stacks and Queues.md",
     "references/Vectors.md",
     "references/Functions between sets.md",
-    "references/cracking the coding interview.md"
+    "references/Naive set theory.md"
   ]
 }
