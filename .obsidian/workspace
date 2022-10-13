@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "contexts/Management.md",
+            "file": "slip-box/Sets.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contexts/Management.md",
+                "file": "slip-box/Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contexts/Management.md",
+                "file": "slip-box/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contexts/Management.md"
+                "file": "slip-box/Sets.md"
               }
             }
           }
@@ -131,13 +131,13 @@
   },
   "active": "6e962c298891a50d",
   "lastOpenFiles": [
+    "contexts/Management.md",
     "contexts/productions and operation management.md",
     "contexts/motivating employees.md",
     "contexts/math 26 2022-10-04.md",
     "contexts/math 26 2022-09-29.md",
     "contexts/Structuring Organizations.md",
     "contexts/saddleback bus1h.md",
-    "contexts/Management.md",
     "contexts/ivc math 26.md",
     "contexts/saddleback cs1c.md",
     "references/System of Linear Equations.md"
