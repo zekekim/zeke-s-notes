@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e962c298891a50d",
+        "id": "ba9a46bd26472969",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "slip-box/Sets.md",
+            "file": "bank/Linear Algebra/System of Linear Equations.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 126
   },
   "right": {
     "id": "046d96b81e846c46",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slip-box/Sets.md",
+                "file": "references/System of Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slip-box/Sets.md",
+                "file": "references/System of Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slip-box/Sets.md"
+                "file": "references/System of Linear Equations.md"
               }
             }
           }
@@ -129,17 +129,49 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e962c298891a50d",
+  "floating": {
+    "id": "fe0872e926fc8963",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4646bcee7635aae0",
+        "type": "window",
+        "children": [
+          {
+            "id": "2f74c04a4442584d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/System of Linear Equations.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 951,
+        "y": 25,
+        "width": 489,
+        "height": 875,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2f74c04a4442584d",
   "lastOpenFiles": [
-    "contexts/Management.md",
-    "contexts/productions and operation management.md",
-    "contexts/motivating employees.md",
-    "contexts/math 26 2022-10-04.md",
+    "bank/Linear Algebra/System of Linear Equations.md",
+    "bank/Abstract Algebra/Sets.md",
+    "references/System of Linear Equations.md",
+    "bank/Linear Algebra/Free Variable.md",
+    "bank/Linear Algebra/Untitled.md",
+    "Basic Variable.md",
+    "references/Three Big Questions.md",
     "contexts/math 26 2022-09-29.md",
-    "contexts/Structuring Organizations.md",
-    "contexts/saddleback bus1h.md",
-    "contexts/ivc math 26.md",
-    "contexts/saddleback cs1c.md",
-    "references/System of Linear Equations.md"
+    "contexts/math 26 2022-10-04.md",
+    "references/Functions between sets.md"
   ]
 }

@@ -3,6 +3,6 @@
 ## resources:
 
 ## notes:
-[[System of Linear Equations]]
+[[references/System of Linear Equations]]
 [[Three Big Questions]]
 [[Vectors]]

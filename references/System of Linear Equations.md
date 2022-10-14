@@ -7,7 +7,6 @@ tags:
 # System of Linear Equations
 
 ## Linear Equations
-
 A **free variable** is a variable whose value is not restricted in the system. A **basic variable** is a variable that can be expressed in terms of the free variables.
 
 A **linear equation** of the n variables $x_{1},x_{2},...,x_{n}$ is an equation of the form
@@ -21,7 +20,6 @@ For a linear equation...
 - The coefficient of each variable must be a real number.
 
 ## System of Linear Equations
-
 A **system of linear equations** is a set of m equations of the form
 
 $$\begin{alignat*}{2}
@@ -39,7 +37,6 @@ The **solution set** is the set of all solutions.
 A system is **consistent** if the system has at least one solution and **inconsistent** if it has none.
 
 ## Questions about Linear Systems
-
 There are four main questions about linear systems...
 1. Is the linear system consistent (does it have a solution)?
 2. If a given linear system is consistent, then is the solution **unique**? If not what is the set of solutions?
@@ -47,7 +44,6 @@ There are four main questions about linear systems...
 4. How can we effectively describe the set of solutions?
 
 ## Matrices
-
 $$\left[\begin{array}{cccc|c}a_{11} & a_{12} & ... & a_{1n}x_{n} & b_{1} \\
 a_{21} & a_{22} & ... & a_{2n} & b_{2}\\
 \vdots & \vdots & \ddots & \vdots & \vdots \\ 
@@ -57,7 +53,6 @@ a_{m1} & a_{m2} & ... & a_{mn} & b_m
 The number of rows **m** and columns **n** relate to the number of equations and number of variables respectively.
 
 ## Questions about Matrices
-
 There are two questions about Matrices...
 
 1. What operations can we perform on the row of matrices?
@@ -82,7 +77,6 @@ $$\left[\begin{array}{cccccc|c}
 Which is basically making 1's along the diagonal and 0's everywhere else to the left of the vertical line.
 
 ## Defining Echelon Form and Row Reduced Echelon Form
-
 Let $A$ be a matrix. Then $A$ is in **echelon form** if
 1. All rows of zeros of $A$ are at the  bottom of $A$.
 2. The first nonzero entry of a row (the **leading entry**) is in a column to the right of the leading entry above that enetry.
@@ -94,7 +88,6 @@ Let $A$ be a matrix. Then $A$ is in **reduced row echelon form** if
 3. Each leading 1 is the only nonzero entry in that column (**pivot column**).
 
 ## Goal of Matrices
-
 Since a system can be solved when in row reduced echelon form, we must reduce the matrix $A$ to $rref(A)$ using **row reduction** for every matrix.
 
 1. Get a 1 in the upper left hand entry.
@@ -116,7 +109,6 @@ x_{2} &= -2&&x_{3} + 1
 \end{alignat*}$$
 
 ## No Solution Case
-
 $$\left[\begin{array}{cc|c} 1 & 2 & 1 \\ 0 & 0 & 1 \end{array}\right]$$
 
 In this case, there is no solution, because the bottom of the row of the matrix states that
