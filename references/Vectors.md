@@ -15,3 +15,5 @@ Two vectors are equal if their corresponding components are equal.
 $$\mathbb{R}^{n}=\{\begin{bmatrix}x_{1} \\ x_{2} \\ \vdots \\ x_{n}\end{bmatrix} | x_{1},x_{2},...\mathbb{R}\}$$
 The **zero vector** or
 $$\vec{0} = \begin{bmatrix}0 \\ 0 \\ \vdots  \\ 0\end{bmatrix}$$
+
+

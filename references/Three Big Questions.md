@@ -4,6 +4,8 @@ section: 1.2
 date: 2022-10-04
 tags: 
 ---
+
+
 # Three Big Questions
 
 1. Does a solution exist for a given linear system?

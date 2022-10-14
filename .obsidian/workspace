@@ -15,6 +15,19 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "62880fe1d837ca77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "references/Vectors.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/System of Linear Equations.md",
+                "file": "references/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/System of Linear Equations.md",
+                "file": "references/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/System of Linear Equations.md"
+                "file": "references/Vectors.md"
               }
             }
           }
@@ -129,49 +142,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "fe0872e926fc8963",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4646bcee7635aae0",
-        "type": "window",
-        "children": [
-          {
-            "id": "2f74c04a4442584d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/System of Linear Equations.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 951,
-        "y": 25,
-        "width": 489,
-        "height": 875,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2f74c04a4442584d",
+  "active": "62880fe1d837ca77",
   "lastOpenFiles": [
-    "bank/Linear Algebra/System of Linear Equations.md",
-    "bank/Abstract Algebra/Sets.md",
-    "references/System of Linear Equations.md",
-    "bank/Linear Algebra/Free Variable.md",
-    "bank/Linear Algebra/Untitled.md",
-    "Basic Variable.md",
     "references/Three Big Questions.md",
-    "contexts/math 26 2022-09-29.md",
-    "contexts/math 26 2022-10-04.md",
-    "references/Functions between sets.md"
+    "references/Vectors.md",
+    "bank/Linear Algebra/System of Linear Equations.md",
+    "references/guptas notes linear algebra.md",
+    "references/Functions between sets.md",
+    "bank/Abstract Algebra/Naive Set Theory.md",
+    "references/System of Linear Equations.md",
+    "references/Naive set theory.md",
+    "bank/Linear Algebra/Free Variable.md",
+    "bank/Linear Algebra/Untitled.md"
   ]
 }
