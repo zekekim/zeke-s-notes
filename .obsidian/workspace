@@ -9,21 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bank/Linear Algebra/System of Linear Equations.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "62880fe1d837ca77",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "references/Vectors.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -142,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62880fe1d837ca77",
+  "active": "ba9a46bd26472969",
   "lastOpenFiles": [
     "references/Three Big Questions.md",
+    "references/System of Linear Equations.md",
+    "bank/Abstract Algebra/Naive Set Theory.md",
+    "references/Functions between sets.md",
     "references/Vectors.md",
+    "references/Stacks and Queues.md",
+    "references/Naive set theory.md",
     "bank/Linear Algebra/System of Linear Equations.md",
     "references/guptas notes linear algebra.md",
-    "references/Functions between sets.md",
-    "bank/Abstract Algebra/Naive Set Theory.md",
-    "references/System of Linear Equations.md",
-    "references/Naive set theory.md",
-    "bank/Linear Algebra/Free Variable.md",
-    "bank/Linear Algebra/Untitled.md"
+    "bank/Linear Algebra/Free Variable.md"
   ]
 }
