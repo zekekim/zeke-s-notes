@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba9a46bd26472969",
+        "id": "b7e6c76bfaed9a93",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "references/Vectors.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "references/Vectors.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba9a46bd26472969",
+  "active": "b7e6c76bfaed9a93",
   "lastOpenFiles": [
+    "Basic Variable.md",
+    "references/cracking the coding interview.md",
+    "references/Functions between sets.md",
+    "references/Arrays and Strings.md",
     "references/Three Big Questions.md",
     "references/System of Linear Equations.md",
-    "bank/Abstract Algebra/Naive Set Theory.md",
-    "references/Functions between sets.md",
     "references/Vectors.md",
     "references/Stacks and Queues.md",
-    "references/Naive set theory.md",
-    "bank/Linear Algebra/System of Linear Equations.md",
-    "references/guptas notes linear algebra.md",
-    "bank/Linear Algebra/Free Variable.md"
+    "templates/section-template.md",
+    "templates/reference-template.md"
   ]
 }

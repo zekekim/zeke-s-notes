@@ -5,7 +5,6 @@ date: 2022-10-04
 tags: 
 ---
 
-
 # 1.3 Vectors
 A **vector** is a matrix of one column.
 $$\begin{bmatrix}x_1 \\ x_2 \\ \vdots  \\ x_n\end{bmatrix}$$

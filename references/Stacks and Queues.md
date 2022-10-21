@@ -4,6 +4,7 @@ section: 3
 date: 2022-10-04
 tags: 
 ---
+
 # Stacks and Queues
 
 ## Stack
