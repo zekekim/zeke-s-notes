@@ -7,8 +7,13 @@
         "id": "b7e6c76bfaed9a93",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "contexts/saddleback bus1h.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "contexts/saddleback bus1h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "contexts/saddleback bus1h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "contexts/saddleback bus1h.md"
+              }
             }
           }
         ]
@@ -122,6 +131,8 @@
   },
   "active": "b7e6c76bfaed9a93",
   "lastOpenFiles": [
+    "contexts/saddleback cs1c.md",
+    "contexts/Management.md",
     "Basic Variable.md",
     "references/cracking the coding interview.md",
     "references/Functions between sets.md",
@@ -129,8 +140,6 @@
     "references/Three Big Questions.md",
     "references/System of Linear Equations.md",
     "references/Vectors.md",
-    "references/Stacks and Queues.md",
-    "templates/section-template.md",
-    "templates/reference-template.md"
+    "references/Stacks and Queues.md"
   ]
 }
