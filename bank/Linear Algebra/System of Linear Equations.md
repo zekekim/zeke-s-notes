@@ -83,3 +83,7 @@ We can recover the solution to the matrix by transforming the matrix $A$ into $r
 ^1665728829993
 
 
+```{r}
+print(dat$sub)
+
+```
