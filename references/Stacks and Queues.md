@@ -5,8 +5,6 @@ date: 2022-10-04
 tags: 
 ---
 
-# Stacks and Queues
-
 ## Stack
 - Uses **LIFO**
 Has operations:

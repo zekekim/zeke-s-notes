@@ -1,4 +1,3 @@
-# cracking the coding interview
 
 ## resources:
 

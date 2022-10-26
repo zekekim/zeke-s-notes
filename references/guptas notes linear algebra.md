@@ -1,4 +1,3 @@
-# guptas notes linear algebra
 
 ## resources:
 

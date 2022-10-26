@@ -4,7 +4,6 @@ section: IX.1
 date: 2022-09-28
 tags:
 ---
-# Arrays and Strings
 
 ## Hash Tables
 

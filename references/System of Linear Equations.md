@@ -5,8 +5,6 @@ section: chapter 1
 tags: 
 ---
 
-# 1.2 System of Linear Equations
-
 ## Linear Equations
 A **free variable** is a variable whose value is not restricted in the system. A **basic variable** is a variable that can be expressed in terms of the free variables.
 

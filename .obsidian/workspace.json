@@ -29,9 +29,22 @@
                 "currentVersion": "1.0.0"
               }
             }
+          },
+          {
+            "id": "d42eb75333889578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contexts/ICC Meeting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 126
+    "width": 273
   },
   "right": {
     "id": "046d96b81e846c46",
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bank/Linear Algebra/System of Linear Equations.md",
+                "file": "contexts/ICC Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bank/Linear Algebra/System of Linear Equations.md",
+                "file": "contexts/ICC Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bank/Linear Algebra/System of Linear Equations.md"
+                "file": "contexts/ICC Meeting.md"
               }
             }
           }
@@ -151,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "28fb58e56e67d1c3",
+  "active": "d42eb75333889578",
   "lastOpenFiles": [
-    "contexts/saddleback bus1h.md",
-    "contexts/saddleback cs1c.md",
-    "contexts/Management.md",
-    "Basic Variable.md",
-    "references/cracking the coding interview.md",
-    "references/Functions between sets.md",
     "references/Arrays and Strings.md",
+    "references/algebra chapter 0.md",
     "references/Three Big Questions.md",
     "references/System of Linear Equations.md",
-    "references/Vectors.md"
+    "references/Stacks and Queues.md",
+    "references/Naive set theory.md",
+    "references/guptas notes linear algebra.md",
+    "references/cracking the coding interview.md",
+    "references/Functions between sets.md",
+    "bank/Linear Algebra/System of Linear Equations.md"
   ]
 }

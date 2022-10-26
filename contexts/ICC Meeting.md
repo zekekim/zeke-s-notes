@@ -1,0 +1,6 @@
+- Issues with the forms, make sure that creating activites buying stuff comes back to your club mission statement.
+- Make sure when you submit, the minutes and agenda are complete.
+	- Make sure to submit forms so that we are still active.
+- Zoom on **Nov 3, 2022** on how to submit forms. Registration is required, email will be sent out.
+- Club Day will be soon.
+- New Club Registration open by 12/1 and three months to submit.
