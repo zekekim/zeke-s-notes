@@ -5,4 +5,3 @@ date: {{date}}
 tags: 
 ---
 
-# {{title}}
