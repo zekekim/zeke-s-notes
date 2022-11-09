@@ -6,7 +6,6 @@
       {
         "id": "8fb9cd6697e6c08d",
         "type": "tabs",
-        "dimension": 44.316163410301954,
         "children": [
           {
             "id": "8ac477b96e125c93",
@@ -61,34 +60,20 @@
             }
           },
           {
-            "id": "0734bd489a0e5a60",
+            "id": "15c407d2a0d99cf9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "contexts/bus 1h 11-9-2022.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "8f6c6c8290eb3d45",
-        "type": "tabs",
-        "dimension": 55.683836589698046,
-        "children": [
-          {
-            "id": "65fcf67add679771",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "attachments/aata-20130816.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/judson/1.2 Sets and Equivalence Relations.md",
+                "file": "contexts/bus 1h 11-9-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/judson/1.2 Sets and Equivalence Relations.md",
+                "file": "contexts/bus 1h 11-9-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/judson/1.2 Sets and Equivalence Relations.md"
+                "file": "contexts/bus 1h 11-9-2022.md"
               }
             }
           }
@@ -205,10 +190,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0734bd489a0e5a60",
+  "active": "15c407d2a0d99cf9",
   "lastOpenFiles": [
-    "references/judson/1.1 A Short Note on Proofs.md",
     "references/judson/1.2 Sets and Equivalence Relations.md",
+    "references/judson/1.1 A Short Note on Proofs.md",
     "references/judson/__.md",
     "references/algebra chapter 0.md",
     "references/Naive set theory.md",
