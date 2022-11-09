@@ -59,9 +59,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0734bd489a0e5a60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "8f6c6c8290eb3d45",
@@ -195,10 +205,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "7c403b2ed0a839e0",
+  "active": "0734bd489a0e5a60",
   "lastOpenFiles": [
     "references/judson/1.1 A Short Note on Proofs.md",
     "references/judson/1.2 Sets and Equivalence Relations.md",
