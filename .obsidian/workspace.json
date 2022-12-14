@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "f257eea24303794c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contexts/bus1h/Chapter 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contexts/bus1h/Chapter 1.md",
+                "file": "contexts/bus1h/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contexts/bus1h/Chapter 1.md",
+                "file": "contexts/bus1h/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contexts/bus1h/Chapter 1.md"
+                "file": "contexts/bus1h/Chapter 2.md"
               }
             }
           }
@@ -137,8 +151,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b912ae3be55601b",
+  "active": "f257eea24303794c",
   "lastOpenFiles": [
+    "contexts/bus1h/Chapter 1.md",
     "contexts/bus 1h 11-9-2022.md",
     "references/judson/1.2 Sets and Equivalence Relations.md",
     "references/judson/1.1 A Short Note on Proofs.md",
@@ -147,7 +162,6 @@
     "bank/Linear Algebra/System of Linear Equations.md",
     "contexts/cs1c 2022-10-03.md",
     "contexts/ICC Meeting.md",
-    "references/algebra chapter 0.md",
-    "references/Naive set theory.md"
+    "references/algebra chapter 0.md"
   ]
 }
