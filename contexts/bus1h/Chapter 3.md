@@ -1,0 +1,15 @@
+- Global market is very lucrative since you can reach more population
+- Countries with lots of resources need technological advancements
+- Licensing - allowing others to produce your product for royalty fees.
+- Joint venture - two companies collaborate on a project
+- Strategic alliance - long-term partnership
+- FDI or Foreign Direct Investment buys property and business in foreign nations
+- Foreign subsidiary is a company owned ina foreign country another company.
+- Sovereign Wealth funds - investment funds controleld by gov holding stakes in foreign companies.
+- Sociocultural forces - culture, ethnocentricy
+- Devaluation - lowering value of a nations culture relative to otehrs
+- There is no global system of trading
+- WTO and GATT - agreement that negotiates reductions in trade restrictions
+- NAFTA - agreement between US Canada and MExico
+- Outsourcing - a lot of companies in US do this
+- 

@@ -1,0 +1,32 @@
+- Big economies and mass producting lead to complexities in organizing businesses.
+- Economies of scale - buy in bulk
+- Fayol
+	- Unity of Command
+	- Hierarchy of authority
+	- division of labor
+	- subordination of individual interest to general interests
+	- authority
+	- degree of centralization
+	- clear communication
+	- order
+	- equity espirit de corps
+- Weber and the Organizational Theory
+	- Employees just need to do what they're told
+		- Job descriptions
+		- written rules, guidlines and records
+		- Procedures regulations and policies
+		- promotion based on qualifications
+	- STRICT
+- Hierarchy - One person to multiple
+- Chain of Command - Top to the low line
+- Organization Chart - Relationship chart
+- Bueracracy - An organization with many layers of managers
+- Centralized vs De-centralized authority
+- Span of Control - how many subordinates a manager has
+- Tall or flat organization structure
+- Departmentalization
+- Line-personnel vs staff-personnel
+- Line organizations - direct two way lines with all reporting to only one
+- Matrix organization - people are pulled sometimes to work on different things
+- Cross functional and self managed teams - groups of employees from different departments who work together on a long term basis
+- 

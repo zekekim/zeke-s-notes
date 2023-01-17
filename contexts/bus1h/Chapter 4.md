@@ -1,0 +1,36 @@
+- Sole proprietorship
+	- A business owned by one person
+	- **Unlimited liability**
+	- 
+- Partnership
+	- A legal form of business with two or more owners.
+	- General Partnership - all owners share in operating and assuming liability
+	- Limited Partnership - One or more general partners and one or more limited partners
+		- Limited liability
+		- Master limited partnership
+		- Limited liability partnership
+			- 
+- Corporation
+	- A legal entity with authority to act and have liability separate from its owners.
+	- State-chartered legal entity
+	- enables many to share in ownership
+	- Double taxation
+- Benefit Corporations or B Corps
+- Individuals can incorporate for limited liability and possible tax benefits
+- S Corporations
+	- Looks like corporation but is taxed like sole proprietorships
+	- See a lawyer
+	- Limited Liability, profits are only taxed as personal income to shareholders
+- Limited Liability Corporations
+	- Like S corp but without special eligibility requirements
+	- CHoice of taxation
+	- NO stock
+	- fewer incentives
+	- Flexible ownership rules
+	- Flexible distribution of profits and losses
+- Mergers
+- Acquisitions
+- Leveraged buyout - an attempt to buy out stockholders in a company
+- Franchises
+- Co-ops or Cooperatives
+	- Business owned by people who use it

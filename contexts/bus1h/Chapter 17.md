@@ -1,0 +1,36 @@
+- Accounts payable - current liabilities involving money owed to others for merchandise or services perchased on credit but not yet paid for.
+- Notes payable - Short-term or long-term liabilities that a business promises to pay by a certain date.
+- Bonds payable - Long-term liabilities that represent money letn to the firm that must be paid back.
+- CFO - Chief FInancial Officer
+- CPA - Certified Financial Planner
+- CFA - Chartered Financial Analyst
+- Comptroller - Chief Accounting Officer
+- Cash flow Forecast
+- Budget - Sets forth management's expectations and allocates the use of specific resources throughout the firm
+	- Capital Budget - Highlights a firm's spending plans for major asset purchases that often require large sums of money.
+	- Cash Budget - Estimates cash inflows and outflows during a particular period
+	- Ties together all the firm's other budgets and summarizes its proposed financial activities.
+- Financial control - a process in which a firm periodically compares its actualy revenues, costs, and expenses with its budget.
+- Capital expenditures - major investments in tangible or intangible assets.
+- For cash flow
+	- Raise prices
+	- Be more aggressive
+	- Offer discounts
+	- Take advantage of special payment terms from vendors
+	- Use credit cards carefully
+- Debt financing - funds raised through various forms of borrowing that must be paid
+- Equity financing - Moeny raised from within the firm
+- Trade credit
+	- Buying goods and services now and paying for them later.
+	- Promissory note - A agreement with a promise to pay a supplier a specific sum at a a definite time.
+		- Term-loan agreement - repay loan in installments
+		- 
+	- Family and Friends offer short-term financing
+		- Commercial banks
+	- Secured Loan - backed by collateral
+	- Unsecured doesnt require any collateral
+	- Line of Credit - given amount of unsecured short-term funds a bank will lend.
+- Factoring - the process of selling accounts receivable for cash.
+- Leverage - raising needed funds through borrowing to increase the firms rate of return.
+- Cost of Capital - The rate of return a company must earn in order to meet the demands of its lenders and expectations of its equity holders.
+- 

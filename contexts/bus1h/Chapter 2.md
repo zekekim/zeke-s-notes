@@ -1,4 +1,25 @@
-## LO 2-1
-- Economcis is the study of how society chooses to employ resources to produce goods and services and distribute them for consumption among various competing groups and individuals.
-- Resource development is the study of how to increase resources and create the conditions that will make better use of them.
-- 
+- Increasing production is a way to better the  economy.
+- Malthus - Rich had the most wealth, more poor people, resources would run out.
+- The graying out of a population will be hard to deal with.
+- Adam Smith's Creation of Wealth
+	- Freedom is vital
+	- People will work hard if they are rewarded
+	- Invisible hand - increasing population happiness will lead to a better economy, people will be willing to increase the economy.
+- Capitalism (US, England, Australia) vs. State capitalism (China)
+- Free-market Capitalism
+	- The right to own private property
+	- The right to own a business and all its profits
+	- The right to freedom of choice
+	- The right fo freedom of competition
+- Roosevelt's Four Additional Freedoms
+	- Freedom of speech
+	- Freedom to worship
+	- Freedom from want
+	- Freedom from fear
+- Perfect competition vs Monopolistic Competition
+- Oligopoly vs Monopoly
+- Free-market capitalism is bad since it leads to inequality and people are inherently greedy.
+- Socialism - some and most businesses are owned by the government.
+	- May lead to brain drain, or low motivation to create innovation.
+- Communism - government owns all factors of business
+- The government was responsible for keeping interest rates too low when there was an increase in spending still.
