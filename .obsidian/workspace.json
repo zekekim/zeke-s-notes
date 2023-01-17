@@ -104,25 +104,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contexts/bus1h/Chapter 17.md",
+                "file": "references/judson/__.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "d76828528597db2e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -188,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contexts/bus1h/Chapter 17.md",
+                "file": "references/judson/__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contexts/bus1h/Chapter 17.md",
+                "file": "references/judson/__.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contexts/bus1h/Chapter 17.md"
+                "file": "references/judson/__.md"
               }
             }
           }
@@ -253,17 +243,17 @@
       "publish:Publish changes": false
     }
   },
-  "active": "d76828528597db2e",
+  "active": "4df02344f8409b06",
   "lastOpenFiles": [
+    "references/judson/1.1 A Short Note on Proofs.md",
+    "references/judson/__.md",
+    "contexts/bus1h/Chapter 17.md",
     "contexts/bus1h/Chapter 8.md",
     "contexts/bus1h/Chapter 7.md",
     "contexts/bus1h/Chapter 6.md",
     "contexts/bus1h/Chapter 4.md",
     "contexts/bus1h/Chapter 3.md",
     "contexts/bus1h/Chapter 2.md",
-    "contexts/bus 1h 11-9-2022.md",
-    "contexts/bus1h/Chapter 1.md",
-    "contexts/cs1c 2022-10-03.md",
-    "references/judson/1.2 Sets and Equivalence Relations.md"
+    "contexts/bus 1h 11-9-2022.md"
   ]
 }
