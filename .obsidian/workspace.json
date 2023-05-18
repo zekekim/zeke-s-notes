@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fb9cd6697e6c08d",
+        "id": "89f921eefa680de1",
         "type": "tabs",
         "children": [
           {
-            "id": "2b912ae3be55601b",
+            "id": "b6e580c2b41771cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contexts/bus1h/Chapter 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,98 +21,17 @@
             }
           },
           {
-            "id": "f257eea24303794c",
+            "id": "1abfa3be7e5d0593",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "contexts/bus1h/Chapter 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "740f8f9aed931a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contexts/bus1h/Chapter 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2058d10fe8833f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contexts/bus1h/Chapter 4.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7c14da91bf9bce54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contexts/bus1h/Chapter 6.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c25c5bc0075ccaac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contexts/bus1h/Chapter 7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d4041a62910b7cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "contexts/bus1h/Chapter 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4df02344f8409b06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "references/judson/__.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "currentVersion": "1.1.16"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 273,
+    "collapsed": true
   },
   "right": {
     "id": "046d96b81e846c46",
@@ -178,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "references/judson/__.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "references/judson/__.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "references/judson/__.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -243,13 +163,13 @@
       "publish:Publish changes": false
     }
   },
-  "active": "4df02344f8409b06",
+  "active": "1abfa3be7e5d0593",
   "lastOpenFiles": [
-    "references/judson/1.1 A Short Note on Proofs.md",
     "references/judson/__.md",
-    "contexts/bus1h/Chapter 17.md",
     "contexts/bus1h/Chapter 8.md",
     "contexts/bus1h/Chapter 7.md",
+    "references/judson/1.1 A Short Note on Proofs.md",
+    "contexts/bus1h/Chapter 17.md",
     "contexts/bus1h/Chapter 6.md",
     "contexts/bus1h/Chapter 4.md",
     "contexts/bus1h/Chapter 3.md",
